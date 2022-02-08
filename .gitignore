@@ -1,0 +1,10 @@
+# -----------------
+# contracts
+
+.DS_Store
+bin
+build
+node_modules
+obj
+*.neo-wallet.json
+*.neoxp-checkpoint
